@@ -46,7 +46,7 @@ The main objectives of this project are:
 ### 1. Vehicle Damage Assessment
 **Description:** This project involves detecting and assessing vehicle damage from images. The model is trained to identify different types of damage, such as dents, scratches, and broken parts.
 
-![Vehicle Damage Assessment](path/to/vehicle_damage_image.png)
+![Vehicle Damage Assessment](vehicle_damage_image.png)
 
 **Features:**
 - Accurate damage detection
@@ -56,7 +56,7 @@ The main objectives of this project are:
 ### 2. Construction PPE Detection
 **Description:** This project focuses on detecting personal protective equipment (PPE) on construction workers to ensure safety compliance. The model identifies helmets, vests, gloves, and other PPE items.
 
-![Construction PPE Detection](path/to/ppe_detection_image.png)
+![Construction PPE Detection](ppe_detection_image.png)
 
 **Features:**
 - Real-time PPE detection
@@ -66,7 +66,7 @@ The main objectives of this project are:
 ### 3. X-ray Scanner
 **Description:** This project involves using 2D object detection and segmentation techniques to analyze X-ray images, identifying objects and potential threats.
 
-![X-ray Scanner](path/to/xray_scanner_image.png)
+![X-ray Scanner](xray_scanner_image.png)
 
 **Features:**
 - High accuracy in object detection
