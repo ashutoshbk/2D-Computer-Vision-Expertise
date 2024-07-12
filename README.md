@@ -66,7 +66,7 @@ The main objectives of this project are:
 ### 3. X-ray Scanner
 **Description:** This project involves using 2D object detection and segmentation techniques to analyze X-ray images, identifying objects and potential threats.
 
-![X-ray Scanner](xray_scanner_image.jpg)
+![X-ray Scanner](xray_scanner_image.png)
 
 **Features:**
 - High accuracy in object detection
