@@ -56,7 +56,7 @@ The main objectives of this project are:
 ### 2. Construction PPE Detection
 **Description:** This project focuses on detecting personal protective equipment (PPE) on construction workers to ensure safety compliance. The model identifies helmets, vests, gloves, and other PPE items.
 
-![Construction PPE Detection](ppe_detection_image.png)
+![Construction PPE Detection](ppe_detection_image.jpeg)
 
 **Features:**
 - Real-time PPE detection
@@ -66,7 +66,7 @@ The main objectives of this project are:
 ### 3. X-ray Scanner
 **Description:** This project involves using 2D object detection and segmentation techniques to analyze X-ray images, identifying objects and potential threats.
 
-![X-ray Scanner](xray_scanner_image.png)
+![X-ray Scanner](xray_scanner_image.jpg)
 
 **Features:**
 - High accuracy in object detection
