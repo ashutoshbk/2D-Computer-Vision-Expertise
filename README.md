@@ -53,7 +53,17 @@ The main objectives of this project are:
 - Classification of damage types
 - Severity assessment
 
-### 2. Construction PPE Detection
+### 2. Road Assets Detection
+**Description:** This project utilizes the Mapillary dataset to detect and classify various road assets such as traffic signs, street lights, and road markings. The model enhances the accuracy of asset management and urban planning.
+
+![Road Assets Detection](road_assets_image.jpg)
+
+**Features:**
+- Comprehensive detection of road assets
+- Integration with GIS systems for urban planning
+- Real-time monitoring and management of road infrastructure
+  
+### 3. Construction PPE Detection
 **Description:** This project focuses on detecting personal protective equipment (PPE) on construction workers to ensure safety compliance. The model identifies helmets, vests, gloves, and other PPE items.
 
 ![Construction PPE Detection](ppe_detection_image.jpeg)
@@ -63,7 +73,7 @@ The main objectives of this project are:
 - Compliance monitoring
 - Safety alerts
 
-### 3. X-ray Scanner
+### 4. X-ray Scanner
 **Description:** This project involves using 2D object detection and segmentation techniques to analyze X-ray images, identifying objects and potential threats.
 
 ![X-ray Scanner](xray_scanner_image.png)
